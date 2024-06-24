@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": "83170541883",
+      "nombres": "efghngcjchgzdn",
+      "apellidos": "szgvbxfnhmxfhb",
+      "status": false,
+      "fecha": "11/11/2023"
+    },
+    {
+      "id": "38574276753",
+      "nombres": "dfbxgftg",
+      "apellidos": "dbxfgbxfgn",
+      "status": true,
+      "fecha": "11/11/2023"
+    },
+    {
+      "id": "26580218818",
+      "nombres": "Luis",
+      "apellidos": "Marin",
+      "status": false,
+      "fecha": "12/11/2023"
+    },
+    {
+      "id": "3304357856",
+      "nombres": "fergetg",
+      "apellidos": "tyhdtg",
+      "status": true,
+      "fecha": "13/11/2023"
+    }
+  ]
+}
